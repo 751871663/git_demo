@@ -2309,6 +2309,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -2339,14 +2342,22 @@
       <option name="presentableId" value="Default" />
       <updated>1584706371463</updated>
       <workItem from="1584706373273" duration="1357000" />
-      <workItem from="1584762651064" duration="2849000" />
+      <workItem from="1584762651064" duration="3106000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create project" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="492" y="117" key="CommitChangelistDialog2" timestamp="1584771720222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="492" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584771720222" />
     <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1584763167150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -2355,5 +2366,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584763138347" />
+    <state x="552" y="244" key="Vcs.Push.Dialog.v2" timestamp="1584771829776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="244" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584771829776" />
   </component>
 </project>
